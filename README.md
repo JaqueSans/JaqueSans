@@ -22,7 +22,3 @@
 
       
 </div>
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jaquesans&layout=compact&langs_count= 7 & theme = dracula" />
-</div>
