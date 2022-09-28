@@ -14,7 +14,8 @@ Olá tudo bem? Eu sou a Jaque, seja bem vindo😀
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://camo.githubusercontent.com/f3530c8c809490c5b9ddfb933389a4b494c4509170ad10df0c33d7e07e3e23d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d706c61696e2e737667">
+  
 </div>
   
 ##
