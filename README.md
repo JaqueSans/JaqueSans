@@ -25,13 +25,8 @@ Olá tudo bem? Eu sou a Jaque, seja bem vindo😀
   
 </div>
 
-<img src="https://github.com/JaqueSans/JaqueSans/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
-<div>
-<a href="https://github.com/JaqueSans">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaqueSans&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSans&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
 ##
   <a href = "mailto:jaqueline.santosearaujo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
